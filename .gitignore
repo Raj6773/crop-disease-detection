@@ -1,0 +1,6 @@
+*.pt
+*.pth
+uploads/
+datasets/
+__pycache__/
+venv/

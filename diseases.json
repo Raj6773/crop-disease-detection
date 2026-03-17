@@ -1,0 +1,2042 @@
+{
+  "BLOTCH": {
+    "index": 0,
+    "crop": "Apple",
+    "display_name": {
+      "en": "Blotch",
+      "hi": "मुहासा",
+      "te": "బ్లాచ్"
+    },
+    "cause": {
+      "en": "Caused by fungal pathogen Phyllosticta solitaria.",
+      "hi": "फंगल रोगज़नक़ फाइलोस्टिक्टा सोलिटेरिया के कारण।",
+      "te": "ఫంగల్ పాథోజెన్ ఫైలోస్టిక్టా సోలిటారియా వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like captan or mancozeb during the growing season.",
+      "hi": "बढ़ते मौसम के दौरान कैप्टन या मैनकोज़ेब जैसे कवकनाशी लगाएं।",
+      "te": "పెరుగుతున్న కాలంలో కాప్టాన్ లేదా మాన్‌కోజెబ్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Prune trees to improve air circulation and remove infected debris.",
+      "hi": "हवा के परिसंचरण में सुधार करने और संक्रमित मलबे को हटाने के लिए पेड़ों को प्रून करें।",
+      "te": "గాలి ప్రసరణను మెరుగుపరచడానికి మరియు సోకిన శిధిలాలను తొలగించడానికి చెట్లను కత్తిరించండి."
+    },
+    "youtube_query": "Apple Blotch disease",
+    "images": [
+      "Blotch1.jpg",
+      "Blotch2.jpg",
+      "Blotch3.jpg"
+    ]
+  },
+  "HEALTHY_APPLE": {
+    "index": 1,
+    "crop": "Apple",
+    "display_name": {
+      "en": "Healthy Apple",
+      "hi": "स्वस्थ सेब",
+      "te": "ఆరోగ్యకరమైన ఆపిల్"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Apple Healthy Apple disease",
+    "images": [
+      "Healthy Apple1.jpg",
+      "Healthy Apple2.jpg",
+      "Healthy Apple3.jpg"
+    ]
+  },
+  "ROT": {
+    "index": 2,
+    "crop": "Apple",
+    "display_name": {
+      "en": "Rot",
+      "hi": "सड़ांध",
+      "te": "తెగులు"
+    },
+    "cause": {
+      "en": "Usually caused by Botryosphaeria or Phytophthora fungi.",
+      "hi": "आमतौर पर बोट्रोस्फेरिया या फाइटोफ्थोरा कवक के कारण होता है।",
+      "te": "సాధారణంగా బొట్రియోస్ఫేరియా లేదా ఫైటోఫ్తోరా శిలీంధ్రాల వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove affected fruits and use fungicides such as thiophanate-methyl.",
+      "hi": "प्रभावित फलों को हटा दें और थियोफैनेट-मिथाइल जैसे कवकनाशी का उपयोग करें।",
+      "te": "ప్రభావిత పండ్లను తొలగించి, థియోఫనేట్-మిథైల్ వంటి శిలీంద్రనాశకాలను వాడండి."
+    },
+    "prevention": {
+      "en": "Avoid fruit injury and ensure proper orchard drainage.",
+      "hi": "फलों की चोट से बचें और उचित ऑर्चर्ड ड्रेनेज सुनिश्चित करें।",
+      "te": "పండ్ల గాయాన్ని నివారించండి మరియు సరైన పండ్ల పారుదలని నిర్ధారించుకోండి."
+    },
+    "youtube_query": "Apple Rot disease",
+    "images": [
+      "Rot1.jpg",
+      "Rot2.jpg",
+      "Rot3.jpg"
+    ]
+  },
+  "SCAB": {
+    "index": 3,
+    "crop": "Apple",
+    "display_name": {
+      "en": "Scab",
+      "hi": "पपड़ी",
+      "te": "స్కాబ్"
+    },
+    "cause": {
+      "en": "Caused by the fungus Venturia inaequalis.",
+      "hi": "फंगस वेंटुरिया इनेकैलिस के कारण।",
+      "te": "ఫంగస్ వెంటూరియా ఇనాకలిస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like captan or sulfur early in the season.",
+      "hi": "सीज़न में कैप्टन या सल्फर जैसे कवकनाशी लगाएं।",
+      "te": "సీజన్ ప్రారంభంలో కాప్టాన్ లేదా సల్ఫర్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Use resistant apple varieties and remove fallen leaves.",
+      "hi": "प्रतिरोधी सेब की किस्मों का उपयोग करें और गिरती पत्तियों को हटा दें।",
+      "te": "నిరోధక ఆపిల్ రకాలను ఉపయోగించండి మరియు పడిపోయిన ఆకులను తొలగించండి."
+    },
+    "youtube_query": "Apple Scab disease",
+    "images": [
+      "Scab1.jpg",
+      "Scab2.jpg",
+      "Scab3.jpg"
+    ]
+  },
+  "rust": {
+    "index": 4,
+    "crop": "Apple",
+    "display_name": {
+      "en": "Rust",
+      "hi": "उकसाना",
+      "te": "రస్ట్"
+    },
+    "cause": {
+      "en": "Caused by Gymnosporangium juniperi-virginianae fungus.",
+      "hi": "जिम्नोस्पोरंगियम जुनिपेरी-विरगिनियन फंगस के कारण।",
+      "te": "జిమ్నోస్పోరోంగియం జునిపెరి-వర్జీనియానా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like myclobutanil and remove nearby juniper hosts.",
+      "hi": "Myclobutanil की तरह कवकनाशी लगाएं और पास के जुनिपर मेजबानों को हटा दें।",
+      "te": "మైక్లోబుటానిల్ వంటి శిలీంద్రనాశకాలను వర్తించండి మరియు సమీపంలోని జునిపెర్ హోస్ట్‌లను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties and prune affected branches.",
+      "hi": "संयंत्र प्रतिरोधी किस्मों और प्रून प्रभावित शाखाओं को प्रभावित करता है।",
+      "te": "మొక్కల నిరోధక రకాలు మరియు ఎండుద్రాక్ష ప్రభావిత శాఖలు."
+    },
+    "youtube_query": "Apple Rust disease",
+    "images": [
+      "Rust1.jpg",
+      "Rust2.jpg",
+      "Rust3.jpg"
+    ]
+  },
+  "Anthracnose_guava": {
+    "index": 5,
+    "crop": "Guava",
+    "display_name": {
+      "en": "Anthracnose Guava",
+      "hi": "एक प्रकार की ग्वा",
+      "te": "ఆంత్రాక్నోస్ గువా"
+    },
+    "cause": {
+      "en": "Caused by Colletotrichum gloeosporioides fungus.",
+      "hi": "Colletotrichum Gloeosporioides कवक के कारण।",
+      "te": "కొల్లెటోట్రిచుమ్ గ్లోయోస్పోరియోయిడ్స్ ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Spray with copper-based fungicides or carbendazim.",
+      "hi": "कॉपर-आधारित कवकनाशी या कार्बेंडाज़िम के साथ स्प्रे करें।",
+      "te": "రాగి ఆధారిత శిలీంద్రనాశకాలు లేదా కార్బెండజిమ్‌తో పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Prune and destroy infected twigs and fruits.",
+      "hi": "संक्रमित टहनियाँ और फलों को नष्ट करें और नष्ट करें।",
+      "te": "సోకిన కొమ్మలు మరియు పండ్లను ఎండు ద్రాక్ష మరియు నాశనం చేయండి."
+    },
+    "youtube_query": "Guava Anthracnose Guava disease",
+    "images": [
+      "Anthracnose Guava1.jpg",
+      "Anthracnose Guava2.jpg",
+      "Anthracnose Guava3.jpg"
+    ]
+  },
+  "fruit fly": {
+    "index": 6,
+    "crop": "Guava",
+    "display_name": {
+      "en": "Fruit Fly",
+      "hi": "फल का कीड़ा",
+      "te": "ఫ్రూట్ ఫ్లై"
+    },
+    "cause": {
+      "en": "Caused by Bactrocera spp. infestation.",
+      "hi": "बैक्ट्रोकेरा एसपीपी के कारण। संक्रमण।",
+      "te": "బాక్ట్రోసెరా ఎస్పిపి వల్ల వస్తుంది. ముట్టడి."
+    },
+    "treatment": {
+      "en": "Use bait traps and apply insecticides like malathion bait sprays.",
+      "hi": "चारा जाल का उपयोग करें और कीटनाशकों की तरह मैलाथियन चारा स्प्रे को लागू करें।",
+      "te": "ఎర ఉచ్చులు ఉపయోగించండి మరియు మాలథియాన్ ఎర స్ప్రేలు వంటి పురుగుమందులను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Collect and destroy infested fruits and use pheromone traps.",
+      "hi": "संक्रमित फलों को इकट्ठा करें और नष्ट करें और फेरोमोन जाल का उपयोग करें।",
+      "te": "సోకిన పండ్లను సేకరించి నాశనం చేయండి మరియు ఫేర్మోన్ ఉచ్చులను ఉపయోగించండి."
+    },
+    "youtube_query": "Guava Fruit Fly disease",
+    "images": [
+      "Fruit Fly1.jpg",
+      "Fruit Fly2.jpg",
+      "Fruit Fly3.jpg"
+    ]
+  },
+  "healthy_guava": {
+    "index": 7,
+    "crop": "Guava",
+    "display_name": {
+      "en": "Healthy Guava",
+      "hi": "स्वस्थ अमरूद",
+      "te": "ఆరోగ్యకరమైన గువా"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Guava Healthy Guava disease",
+    "images": [
+      "Healthy Guava1.jpg",
+      "Healthy Guava2.jpg",
+      "Healthy Guava3.jpg"
+    ]
+  },
+  "Anthracnose_mango": {
+    "index": 8,
+    "crop": "Mango",
+    "display_name": {
+      "en": "Anthracnose Mango",
+      "hi": "एन्थ्रेकनोज मैंगो",
+      "te": "ఆంత్రాక్నోస్ మామిడి"
+    },
+    "cause": {
+      "en": "Caused by Colletotrichum gloeosporioides fungus.",
+      "hi": "Colletotrichum Gloeosporioides कवक के कारण।",
+      "te": "కొల్లెటోట్రిచుమ్ గ్లోయోస్పోరియోయిడ్స్ ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like carbendazim or chlorothalonil.",
+      "hi": "कार्बेंडाज़िम या क्लोरोथालोनिल जैसे कवकनाशी लगाएं।",
+      "te": "కార్బెండాజిమ్ లేదా క్లోరోథలోనిల్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Prune infected parts and avoid overcrowding of trees.",
+      "hi": "प्रून संक्रमित भागों और पेड़ों के भीड़भाड़ से बचें।",
+      "te": "సోకిన భాగాలను ఎండు ద్రాక్ష మరియు చెట్ల రద్దీని నివారించండి."
+    },
+    "youtube_query": "Mango Anthracnose Mango disease",
+    "images": [
+      "Anthracnose Mango1.jpg",
+      "Anthracnose Mango2.jpg",
+      "Anthracnose Mango3.jpg"
+    ]
+  },
+  "Ceratitis-Cosyra": {
+    "index": 9,
+    "crop": "Mango",
+    "display_name": {
+      "en": "Ceratitis Cosyra",
+      "hi": "सेरोटाइटिस कोसरा",
+      "te": "సెరాటిటిస్ కోసైరా"
+    },
+    "cause": {
+      "en": "Fruit fly (Ceratitis cosyra) infestation.",
+      "hi": "फलों की मक्खी (सेराटाइटिस कोसरा) संक्रमण।",
+      "te": "ఫ్రూట్ ఫ్లై (సెరాటిటిస్ కోసైరా) ముట్టడి."
+    },
+    "treatment": {
+      "en": "Use protein bait sprays and insecticides.",
+      "hi": "प्रोटीन चारा स्प्रे और कीटनाशकों का उपयोग करें।",
+      "te": "ప్రోటీన్ ఎర స్ప్రేలు మరియు పురుగుమందులను ఉపయోగించండి."
+    },
+    "prevention": {
+      "en": "Harvest fruits early and destroy infested ones.",
+      "hi": "फसल के फल जल्दी और संक्रमित लोगों को नष्ट कर देते हैं।",
+      "te": "పంట పండ్లు ప్రారంభంలో మరియు సోకిన వాటిని నాశనం చేయండి."
+    },
+    "youtube_query": "Mango Ceratitis Cosyra disease",
+    "images": [
+      "Ceratitis Cosyra1.jpg",
+      "Ceratitis Cosyra2.jpg",
+      "Ceratitis Cosyra3.jpg"
+    ]
+  },
+  "Healthy_mango": {
+    "index": 10,
+    "crop": "Mango",
+    "display_name": {
+      "en": "Healthy Mango",
+      "hi": "स्वस्थ आम",
+      "te": "ఆరోగ్యకరమైన మామిడి"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Mango Healthy Mango disease",
+    "images": [
+      "Healthy Mango1.jpg",
+      "Healthy Mango2.jpg",
+      "Healthy Mango3.jpg"
+    ]
+  },
+  "Malformation": {
+    "index": 11,
+    "crop": "Mango",
+    "display_name": {
+      "en": "Malformation",
+      "hi": "कुरूपता",
+      "te": "వైకల్యం"
+    },
+    "cause": {
+      "en": "Caused by Fusarium moniliforme fungus and mite vectors.",
+      "hi": "फुसैरियम मोनिलिफ़ॉर्म फंगस और माइट वैक्टर के कारण।",
+      "te": "ఫ్యూసేరియం మోనిలిఫార్మ్ ఫంగస్ మరియు మైట్ వెక్టర్స్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Prune malformed shoots and spray carbendazim.",
+      "hi": "प्रून ने शूटिंग की और कार्बेंडाज़िम स्प्रे किया।",
+      "te": "ఎండుద్రాక్షలో ఉన్న రెమ్మలు మరియు స్ప్రే కార్బెండజిమ్."
+    },
+    "prevention": {
+      "en": "Avoid planting infected seedlings.",
+      "hi": "संक्रमित रोपाई रोपण से बचें।",
+      "te": "సోకిన మొలకల నాటడం మానుకోండి."
+    },
+    "youtube_query": "Mango Malformation disease",
+    "images": [
+      "Malformation1.jpg",
+      "Malformation2.jpg",
+      "Malformation3.jpg"
+    ]
+  },
+  "bacterial_spot_peach": {
+    "index": 12,
+    "crop": "Peach",
+    "display_name": {
+      "en": "Bacterial Spot Peach",
+      "hi": "बैक्टीरियल स्पॉट पीच",
+      "te": "బాక్టీరియల్ స్పాట్ పీచ్"
+    },
+    "cause": {
+      "en": "Caused by bacterium Xanthomonas campestris pv. pruni.",
+      "hi": "जीवाणु Xanthomonas Campestris Pv के कारण। प्रुनी।",
+      "te": "బాక్టీరియం క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల వస్తుంది. ప్రూని."
+    },
+    "treatment": {
+      "en": "Spray copper-based bactericides during early season.",
+      "hi": "शुरुआती मौसम के दौरान कॉपर-आधारित जीवाणुनाशक स्प्रे करें।",
+      "te": "ప్రారంభ సీజన్లో రాగి ఆధారిత బాక్టీరిసైడ్లను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties and avoid overhead irrigation.",
+      "hi": "संयंत्र प्रतिरोधी किस्में और ओवरहेड सिंचाई से बचें।",
+      "te": "మొక్కల నిరోధక రకాలను మొక్క మరియు ఓవర్ హెడ్ నీటిపారుదల నివారించండి."
+    },
+    "youtube_query": "Peach Bacterial Spot Peach disease",
+    "images": [
+      "Bacterial Spot Peach1.jpg",
+      "Bacterial Spot Peach2.jpg",
+      "Bacterial Spot Peach3.jpg"
+    ]
+  },
+  "brown_rot": {
+    "index": 13,
+    "crop": "Peach",
+    "display_name": {
+      "en": "Brown Rot",
+      "hi": "भूरे रंग का सड़ांध",
+      "te": "గోధుమ తెగులు"
+    },
+    "cause": {
+      "en": "Caused by Monilinia fructicola fungus.",
+      "hi": "मोनिलिनिया फ्रुक्टिकोला कवक के कारण।",
+      "te": "మోనిలినియా ఫ్రక్టికోలా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like captan or propiconazole.",
+      "hi": "कैप्टन या प्रोपिकोनाज़ोल जैसे कवकनाशी लागू करें।",
+      "te": "కాప్టాన్ లేదా ప్రొపికోనజోల్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Remove mummified fruits and prune infected twigs.",
+      "hi": "मम्मीफाइड फलों और प्रून संक्रमित टहनियाँ निकालें।",
+      "te": "మమ్మీడ్ పండ్లు మరియు ఎండు ద్రాక్ష సోకిన కొమ్మలను తొలగించండి."
+    },
+    "youtube_query": "Peach Brown Rot disease",
+    "images": [
+      "Brown Rot1.jpg",
+      "Brown Rot2.jpg",
+      "Brown Rot3.jpg"
+    ]
+  },
+  "healthy_peach": {
+    "index": 14,
+    "crop": "Peach",
+    "display_name": {
+      "en": "Healthy Peach",
+      "hi": "स्वस्थ आड़ू",
+      "te": "ఆరోగ్యకరమైన పీచు"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Peach Healthy Peach disease",
+    "images": [
+      "Healthy Peach1.jpg",
+      "Healthy Peach2.jpg",
+      "Healthy Peach3.jpg"
+    ]
+  },
+  "shot_hole": {
+    "index": 15,
+    "crop": "Peach",
+    "display_name": {
+      "en": "Shot Hole",
+      "hi": "शॉट होल",
+      "te": "షాట్ హోల్"
+    },
+    "cause": {
+      "en": "Caused by Wilsonomyces carpophilus fungus.",
+      "hi": "Wilsonomyces कार्पोफिलस कवक के कारण।",
+      "te": "విల్సనోమైసెస్ కార్పోఫిలస్ ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fixed copper sprays during dormancy.",
+      "hi": "डॉर्मेंसी के दौरान फिक्स्ड कॉपर स्प्रे लागू करें।",
+      "te": "నిద్రాణస్థితి సమయంలో స్థిర రాగి స్ప్రేలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Avoid overhead watering and prune infected branches.",
+      "hi": "ओवरहेड पानी और संक्रमित शाखाओं से बचें।",
+      "te": "ఓవర్ హెడ్ నీరు త్రాగుట మరియు సోకిన శాఖలను కత్తిరించండి."
+    },
+    "youtube_query": "Peach Shot Hole disease",
+    "images": [
+      "Shot Hole1.jpg",
+      "Shot Hole2.jpg",
+      "Shot Hole3.jpg"
+    ]
+  },
+  "shot_hole_leaf": {
+    "index": 16,
+    "crop": "Peach",
+    "display_name": {
+      "en": "Shot Hole Leaf",
+      "hi": "शॉट होल लीफ",
+      "te": "షాట్ హోల్ లీఫ్"
+    },
+    "cause": {
+      "en": "Caused by Wilsonomyces carpophilus fungus.",
+      "hi": "Wilsonomyces कार्पोफिलस कवक के कारण।",
+      "te": "విల్సనోమైసెస్ కార్పోఫిలస్ ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Use fungicides like chlorothalonil.",
+      "hi": "क्लोरोथालोनिल जैसे कवकनाशी का उपयोग करें।",
+      "te": "క్లోరోథలోనిల్ వంటి శిలీంద్రనాశకాలను ఉపయోగించండి."
+    },
+    "prevention": {
+      "en": "Remove fallen leaves and prune infected areas.",
+      "hi": "गिरे हुए पत्तों और संक्रमित क्षेत्रों को हटा दें।",
+      "te": "పడిపోయిన ఆకులను తొలగించి, సోకిన ప్రాంతాలను కత్తిరించండి."
+    },
+    "youtube_query": "Peach Shot Hole Leaf disease",
+    "images": [
+      "Shot Hole Leaf1.jpg",
+      "Shot Hole Leaf2.jpg",
+      "Shot Hole Leaf3.jpg"
+    ]
+  },
+  "Crown_Rot_Disease": {
+    "index": 17,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Crown Rot Disease",
+      "hi": "क्राउन सड़न रोग",
+      "te": "క్రౌన్ రాట్ డిసీజ్"
+    },
+    "cause": {
+      "en": "Caused by fungi such as Fusarium and Penicillium spp.",
+      "hi": "फुसैरियम और पेनिसिलियम एसपीपी जैसे कवक के कारण।",
+      "te": "ఫ్యూసేరియం మరియు పెన్సిలియం ఎస్పిపి వంటి శిలీంధ్రాల వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Dip crowns in fungicidal solution before planting.",
+      "hi": "रोपण से पहले कवकनाशी समाधान में मुकुट डुबोएं।",
+      "te": "నాటడానికి ముందు శిలీంద్ర సంహారిణి ద్రావణంలో కిరీటాలను ముంచండి."
+    },
+    "prevention": {
+      "en": "Avoid planting in waterlogged soils.",
+      "hi": "जलप्रपात की मिट्टी में रोपण से बचें।",
+      "te": "వాటర్‌లాగ్డ్ నేలల్లో నాటడం మానుకోండి."
+    },
+    "youtube_query": "Pineapple Crown Rot Disease disease",
+    "images": [
+      "Crown Rot Disease1.jpg",
+      "Crown Rot Disease2.jpg",
+      "Crown Rot Disease3.jpg"
+    ]
+  },
+  "Fruit_Fasciation_Disorder": {
+    "index": 18,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Fruit Fasciation Disorder",
+      "hi": "फलों का आकर्षण विकार",
+      "te": "పండ్ల ఫాసియేషన్ డిజార్డర్"
+    },
+    "cause": {
+      "en": "Caused by genetic and hormonal imbalance.",
+      "hi": "आनुवंशिक और हार्मोनल असंतुलन के कारण।",
+      "te": "జన్యు మరియు హార్మోన్ల అసమతుల్యత వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove affected fruits.",
+      "hi": "प्रभावित फलों को हटा दें।",
+      "te": "ప్రభావిత పండ్లను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Use certified planting material.",
+      "hi": "प्रमाणित रोपण सामग्री का उपयोग करें।",
+      "te": "సర్టిఫైడ్ ప్లాంటింగ్ మెటీరియల్‌ను ఉపయోగించండి."
+    },
+    "youtube_query": "Pineapple Fruit Fasciation Disorder disease",
+    "images": [
+      "Fruit Fasciation Disorder1.jpg",
+      "Fruit Fasciation Disorder2.jpg",
+      "Fruit Fasciation Disorder3.jpg"
+    ]
+  },
+  "Fruit_Rot_Disease": {
+    "index": 19,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Fruit Rot Disease",
+      "hi": "फल सड़ांध रोग",
+      "te": "పండ్ల తెగులు వ్యాధి"
+    },
+    "cause": {
+      "en": "Caused by fungi like Ceratocystis paradoxa.",
+      "hi": "सेराटोसिस्टिस पैराडॉक्सा जैसे कवक के कारण।",
+      "te": "సెరాటోసిస్టిస్ పారాడోక్సా వంటి శిలీంధ్రాల వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides and ensure proper drainage.",
+      "hi": "कवकनाशी लागू करें और उचित जल निकासी सुनिश्चित करें।",
+      "te": "శిలీంద్రనాశకాలను వర్తించండి మరియు సరైన పారుదల నిర్ధారించుకోండి."
+    },
+    "prevention": {
+      "en": "Avoid injuries to fruit during handling.",
+      "hi": "हैंडलिंग के दौरान फलों में चोटों से बचें।",
+      "te": "నిర్వహణ సమయంలో పండ్లకు గాయాలు మానుకోండి."
+    },
+    "youtube_query": "Pineapple Fruit Rot Disease disease",
+    "images": [
+      "Fruit Rot Disease1.jpg",
+      "Fruit Rot Disease2.jpg",
+      "Fruit Rot Disease3.jpg"
+    ]
+  },
+  "Mealybug_Wilt_Disease": {
+    "index": 20,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Mealybug Wilt Disease",
+      "hi": "मेलाबग विल्ट रोग",
+      "te": "మీలీబగ్ విల్ట్ వ్యాధి"
+    },
+    "cause": {
+      "en": "Caused by mealybug infestation transmitting Pineapple mealybug wilt-associated virus.",
+      "hi": "Mealybug infestation के कारण अनानास mealybug विल्ट-जुड़े वायरस को प्रसारित करना।",
+      "te": "పైనాపిల్ మీలీబగ్ విల్ట్-అసోసియేటెడ్ వైరస్ ప్రసారం చేసే మీలీబగ్ ముట్టడి వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Control mealybugs with insecticides and natural predators.",
+      "hi": "कीटनाशकों और प्राकृतिक शिकारियों के साथ mealybugs को नियंत्रित करें।",
+      "te": "పురుగుమందులు మరియు సహజ మాంసాహారులతో మీలీబగ్‌లను నియంత్రించండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties and avoid infested planting material.",
+      "hi": "संयंत्र प्रतिरोधी किस्में और संक्रमित रोपण सामग्री से बचें।",
+      "te": "మొక్కల నిరోధక రకాలు మరియు సోకిన నాటడం పదార్థాన్ని నివారించండి."
+    },
+    "youtube_query": "Pineapple Mealybug Wilt Disease disease",
+    "images": [
+      "Mealybug Wilt Disease1.jpg",
+      "Mealybug Wilt Disease2.jpg",
+      "Mealybug Wilt Disease3.jpg"
+    ]
+  },
+  "Multiple_Crown_Disorder": {
+    "index": 21,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Multiple Crown Disorder",
+      "hi": "बहु मुकुट विकार",
+      "te": "బహుళ క్రౌన్ డిజార్డర్"
+    },
+    "cause": {
+      "en": "Physiological disorder influenced by hormonal imbalance.",
+      "hi": "हार्मोनल असंतुलन से प्रभावित शारीरिक विकार।",
+      "te": "హార్మోన్ల అసమతుల్యత ద్వారా ప్రభావితమైన శారీరక రుగ్మత."
+    },
+    "treatment": {
+      "en": "Remove multiple crowns early.",
+      "hi": "कई मुकुटों को जल्दी निकालें।",
+      "te": "ముందుగానే బహుళ కిరీటాలను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Use proper cultural practices and balanced fertilization.",
+      "hi": "उचित सांस्कृतिक प्रथाओं और संतुलित निषेचन का उपयोग करें।",
+      "te": "సరైన సాంస్కృతిక పద్ధతులు మరియు సమతుల్య ఫలదీకరణం ఉపయోగించండి."
+    },
+    "youtube_query": "Pineapple Multiple Crown Disorder disease",
+    "images": [
+      "Multiple Crown Disorder1.jpg",
+      "Multiple Crown Disorder2.jpg",
+      "Multiple Crown Disorder3.jpg"
+    ]
+  },
+  "Healthy_pineapple": {
+    "index": 22,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Healthy Pineapple",
+      "hi": "स्वस्थ अनानास",
+      "te": "ఆరోగ్యకరమైన పైనాపిల్"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Pineapple Healthy Pineapple disease",
+    "images": [
+      "Healthy Pineapple1.jpg",
+      "Healthy Pineapple2.jpg",
+      "Healthy Pineapple3.jpg"
+    ]
+  },
+  "Root_Rot_Disease": {
+    "index": 23,
+    "crop": "Pineapple",
+    "display_name": {
+      "en": "Root Rot Disease",
+      "hi": "रूट रोट रोग",
+      "te": "రూట్ రాట్ డిసీజ్"
+    },
+    "cause": {
+      "en": "Caused by Phytophthora parasitica fungus.",
+      "hi": "फाइटोफथोरा परासितिका कवक के कारण।",
+      "te": "ఫైటోఫ్తోరా పారాసిటికా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Drench soil with fungicides like metalaxyl.",
+      "hi": "मेटलैक्सिल जैसी कवकनाशी के साथ मिट्टी को डुबोएं।",
+      "te": "మెటలాక్సిల్ వంటి శిలీంద్రనాశకాలతో మట్టిని తడిపివేయండి."
+    },
+    "prevention": {
+      "en": "Plant in well-drained soils.",
+      "hi": "अच्छी तरह से सूखा मिट्टी में पौधे।",
+      "te": "బాగా ఎండిపోయిన నేలల్లో నాటండి."
+    },
+    "youtube_query": "Pineapple Root Rot Disease disease",
+    "images": [
+      "Root Rot Disease1.jpg",
+      "Root Rot Disease2.jpg",
+      "Root Rot Disease3.jpg"
+    ]
+  },
+  "Anthracnose_tomato": {
+    "index": 24,
+    "crop": "Tomato",
+    "display_name": {
+      "en": "Anthracnose Tomato",
+      "hi": "एक प्रकार का टमाटर",
+      "te": "ఆంత్రాక్నోస్ టమోటా"
+    },
+    "cause": {
+      "en": "Caused by Colletotrichum coccodes fungus.",
+      "hi": "Colletotrichum coccodes कवक के कारण।",
+      "te": "కొల్లెటోట్రిఖం కోకోడ్స్ ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like chlorothalonil.",
+      "hi": "क्लोरोथालोनिल की तरह कवकनाशी लगाएं।",
+      "te": "క్లోరోథలోనిల్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Practice crop rotation and remove infected debris.",
+      "hi": "फसल रोटेशन का अभ्यास करें और संक्रमित मलबे को हटा दें।",
+      "te": "పంట భ్రమణాన్ని ప్రాక్టీస్ చేయండి మరియు సోకిన శిధిలాలను తొలగించండి."
+    },
+    "youtube_query": "Tomato Anthracnose Tomato disease",
+    "images": [
+      "Anthracnose Tomato1.jpg",
+      "Anthracnose Tomato2.jpg",
+      "Anthracnose Tomato3.jpg"
+    ]
+  },
+  "Bacterial_Spot": {
+    "index": 25,
+    "crop": "Tomato",
+    "display_name": {
+      "en": "Bacterial Spot",
+      "hi": "बैक्टीरियल स्पॉट",
+      "te": "బాక్టీరియల్ స్పాట్"
+    },
+    "cause": {
+      "en": "Caused by Xanthomonas campestris pv. vesicatoria bacterium.",
+      "hi": "Xanthomonas Campestris Pv के कारण। वेसीसोरिया जीवाणु।",
+      "te": "క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల. వెసికాటోరియా బాక్టీరియం."
+    },
+    "treatment": {
+      "en": "Use copper-based sprays and resistant varieties.",
+      "hi": "कॉपर-आधारित स्प्रे और प्रतिरोधी किस्मों का उपयोग करें।",
+      "te": "రాగి ఆధారిత స్ప్రేలు మరియు నిరోధక రకాలను ఉపయోగించండి."
+    },
+    "prevention": {
+      "en": "Avoid working in wet fields and rotate crops.",
+      "hi": "गीले क्षेत्रों में काम करने से बचें और फसलों को घुमाएं।",
+      "te": "తడి పొలాలలో పనిచేయడం మరియు పంటలను తిప్పడం మానుకోండి."
+    },
+    "youtube_query": "Tomato Bacterial Spot disease",
+    "images": [
+      "Bacterial Spot1.jpg",
+      "Bacterial Spot2.jpg",
+      "Bacterial Spot3.jpg"
+    ]
+  },
+  "Blossom end rot": {
+    "index": 26,
+    "crop": "Tomato",
+    "display_name": {
+      "en": "Blossom End Rot",
+      "hi": "ब्लॉसम एंड रोट",
+      "te": "వికసించే ముగింపు తెగులు"
+    },
+    "cause": {
+      "en": "Physiological disorder due to calcium deficiency and irregular watering.",
+      "hi": "कैल्शियम की कमी और अनियमित पानी के कारण शारीरिक विकार।",
+      "te": "కాల్షియం లోపం మరియు సక్రమంగా నీరు త్రాగుట కారణంగా శారీరక రుగ్మత."
+    },
+    "treatment": {
+      "en": "Apply calcium sprays and maintain consistent irrigation.",
+      "hi": "कैल्शियम स्प्रे लागू करें और लगातार सिंचाई बनाए रखें।",
+      "te": "కాల్షియం స్ప్రేలను వర్తించండి మరియు స్థిరమైన నీటిపారుదలని నిర్వహించండి."
+    },
+    "prevention": {
+      "en": "Maintain soil calcium levels and proper watering.",
+      "hi": "मिट्टी के कैल्शियम के स्तर और उचित पानी को बनाए रखें।",
+      "te": "నేల కాల్షియం స్థాయిలు మరియు సరైన నీరు త్రాగుట నిర్వహించండి."
+    },
+    "youtube_query": "Tomato Blossom End Rot disease",
+    "images": [
+      "Blossom End Rot1.jpg",
+      "Blossom End Rot2.jpg",
+      "Blossom End Rot3.jpg"
+    ]
+  },
+  "Healthy Tomato": {
+    "index": 27,
+    "crop": "Tomato",
+    "display_name": {
+      "en": "Healthy Tomato",
+      "hi": "स्वस्थ टमाटर",
+      "te": "ఆరోగ్యకరమైన టమోటా"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Tomato Healthy Tomato disease",
+    "images": [
+      "Healthy Tomato1.jpg",
+      "Healthy Tomato2.jpg",
+      "Healthy Tomato3.jpg"
+    ]
+  },
+  "Spotted wilt Virus": {
+    "index": 28,
+    "crop": "Tomato",
+    "display_name": {
+      "en": "Spotted Wilt Virus",
+      "hi": "स्पॉटेड विल्ट वायरस",
+      "te": "మచ్చల విల్ట్ వైరస్"
+    },
+    "cause": {
+      "en": "Caused by Tomato spotted wilt virus (TSWV) transmitted by thrips.",
+      "hi": "टमाटर स्पॉटेड विल्ट वायरस (TSWV) के कारण थ्रिप्स द्वारा प्रेषित।",
+      "te": "టొమాటో స్పాటెడ్ విల్ట్ వైరస్ (టిఎస్‌డబ్ల్యువి) వల్ల తట్టుల ద్వారా ప్రసారం అవుతుంది."
+    },
+    "treatment": {
+      "en": "Remove infected plants and control thrips vectors.",
+      "hi": "संक्रमित पौधों को हटा दें और थ्रिप्स वैक्टर को नियंत्रित करें।",
+      "te": "సోకిన మొక్కలను తొలగించి, తృప్తుల వెక్టర్స్ ను నియంత్రించండి."
+    },
+    "prevention": {
+      "en": "Use resistant varieties and reflective mulches.",
+      "hi": "प्रतिरोधी किस्मों और चिंतनशील मल्च का उपयोग करें।",
+      "te": "నిరోధక రకాలు మరియు ప్రతిబింబ మల్చ్‌లను ఉపయోగించండి."
+    },
+    "youtube_query": "Tomato Spotted Wilt Virus disease",
+    "images": [
+      "Spotted Wilt Virus1.jpg",
+      "Spotted Wilt Virus2.jpg",
+      "Spotted Wilt Virus3.jpg"
+    ]
+  },
+  "blackmutinfected": {
+    "index": 29,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Blackmutinfected",
+      "hi": "Bracdmutinfected",
+      "te": "బ్లాక్‌ముట్ ఇన్ఫెక్టెడ్"
+    },
+    "cause": {
+      "en": "Caused by fungal infection (Aspergillus niger).",
+      "hi": "फंगल संक्रमण (एस्परगिलस नाइजर) के कारण।",
+      "te": "ఫంగల్ ఇన్ఫెక్షన్ (ఆస్పెర్‌గిల్లస్ నైగర్) వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like carbendazim.",
+      "hi": "Carbendazim की तरह कवकनाशी लगाएं।",
+      "te": "కార్బెండాజిమ్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Store bulbs in dry, ventilated conditions.",
+      "hi": "सूखी, हवादार स्थितियों में बल्बों को स्टोर करें।",
+      "te": "పొడి, వెంటిలేటెడ్ పరిస్థితులలో బల్బులను నిల్వ చేయండి."
+    },
+    "youtube_query": "Onion Blackmutinfected disease",
+    "images": [
+      "Blackmutinfected1.jpg",
+      "Blackmutinfected2.jpg",
+      "Blackmutinfected3.jpg"
+    ]
+  },
+  "Discoloured": {
+    "index": 30,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Discoloured",
+      "hi": "फीका पड़ा हुआ",
+      "te": "రంగు పాలిపోతుంది"
+    },
+    "cause": {
+      "en": "Often due to fungal or bacterial infection.",
+      "hi": "अक्सर फंगल या बैक्टीरियल संक्रमण के कारण।",
+      "te": "తరచుగా ఫంగల్ లేదా బాక్టీరియల్ ఇన్ఫెక్షన్ కారణంగా."
+    },
+    "treatment": {
+      "en": "Remove affected bulbs and improve storage conditions.",
+      "hi": "प्रभावित बल्बों को हटा दें और भंडारण की स्थिति में सुधार करें।",
+      "te": "ప్రభావిత బల్బులను తొలగించి నిల్వ పరిస్థితులను మెరుగుపరచండి."
+    },
+    "prevention": {
+      "en": "Ensure proper curing and ventilation.",
+      "hi": "उचित इलाज और वेंटिलेशन सुनिश्चित करें।",
+      "te": "సరైన క్యూరింగ్ మరియు వెంటిలేషన్ నిర్ధారించుకోండి."
+    },
+    "youtube_query": "Onion Discoloured disease",
+    "images": [
+      "Discoloured1.jpg",
+      "Discoloured2.jpg",
+      "Discoloured3.jpg"
+    ]
+  },
+  "Discoloured-sprouted": {
+    "index": 31,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Discoloured Sprouted",
+      "hi": "अंकुरित अंकुरित",
+      "te": "రంగు మారిన మొలకెత్తారు"
+    },
+    "cause": {
+      "en": "Due to fungal infection and poor storage.",
+      "hi": "फंगल संक्रमण और खराब भंडारण के कारण।",
+      "te": "ఫంగల్ ఇన్ఫెక్షన్ మరియు పేలవమైన నిల్వ కారణంగా."
+    },
+    "treatment": {
+      "en": "Apply fungicidal treatment before storage.",
+      "hi": "भंडारण से पहले कवकनाशी उपचार लागू करें।",
+      "te": "నిల్వ చేయడానికి ముందు శిలీంద్ర సంహారిణి చికిత్సను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Store in cool, dry conditions.",
+      "hi": "शांत, शुष्क परिस्थितियों में स्टोर करें।",
+      "te": "చల్లని, పొడి పరిస్థితులలో నిల్వ చేయండి."
+    },
+    "youtube_query": "Onion Discoloured Sprouted disease",
+    "images": [
+      "Discoloured Sprouted1.jpg",
+      "Discoloured Sprouted2.jpg",
+      "Discoloured Sprouted3.jpg"
+    ]
+  },
+  "blackmutinfected-cuts": {
+    "index": 32,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Blackmutinfected Cuts",
+      "hi": "Blackmutinfected कटौती",
+      "te": "బ్లాక్‌ముటి ఇన్ఫెక్టెడ్ కోతలు"
+    },
+    "cause": {
+      "en": "Aspergillus niger infection through cut surfaces.",
+      "hi": "कटे हुए सतहों के माध्यम से एस्परगिलस नाइजर संक्रमण।",
+      "te": "కట్ ఉపరితలాల ద్వారా ఆస్పెర్‌గిల్లస్ నైజర్ ఇన్ఫెక్షన్."
+    },
+    "treatment": {
+      "en": "Avoid injuries and apply fungicides.",
+      "hi": "चोटों से बचें और कवकनाशी लगाएं।",
+      "te": "గాయాలను నివారించండి మరియు శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Handle bulbs carefully during harvest.",
+      "hi": "फसल के दौरान सावधानी से बल्बों को संभालें।",
+      "te": "పంట సమయంలో బల్బులను జాగ్రత్తగా నిర్వహించండి."
+    },
+    "youtube_query": "Onion Blackmutinfected Cuts disease",
+    "images": [
+      "Blackmutinfected Cuts1.jpg",
+      "Blackmutinfected Cuts2.jpg",
+      "Blackmutinfected Cuts3.jpg"
+    ]
+  },
+  "blacksmutinfected-rotten": {
+    "index": 33,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Blacksmutinfected Rotten",
+      "hi": "लोहार",
+      "te": "కమ్మరితో సంక్రమణ కుళ్ళిన"
+    },
+    "cause": {
+      "en": "Caused by black smut fungi.",
+      "hi": "ब्लैक स्मट कवक के कारण।",
+      "te": "నల్ల స్మట్ శిలీంధ్రాల వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Dispose of rotten bulbs and disinfect storage areas.",
+      "hi": "सड़े हुए बल्बों का निपटान और भंडारण क्षेत्रों कीटाणुरहित।",
+      "te": "కుళ్ళిన బల్బులను పారవేయండి మరియు నిల్వ ప్రాంతాలను క్రిమిసంహారక చేయండి."
+    },
+    "prevention": {
+      "en": "Avoid storing damaged bulbs.",
+      "hi": "क्षतिग्रस्त बल्बों के भंडारण से बचें।",
+      "te": "దెబ్బతిన్న బల్బులను నిల్వ చేయకుండా ఉండండి."
+    },
+    "youtube_query": "Onion Blacksmutinfected Rotten disease",
+    "images": [
+      "Blacksmutinfected Rotten1.jpg",
+      "Blacksmutinfected Rotten2.jpg",
+      "Blacksmutinfected Rotten3.jpg"
+    ]
+  },
+  "blacksmutinfected-sprouted": {
+    "index": 34,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Blacksmutinfected Sprouted",
+      "hi": "लोहार में अंकुरित अंकुरित",
+      "te": "కమ్మరితో సంక్రమణ మొలకెత్తారు"
+    },
+    "cause": {
+      "en": "Fungal infection associated with sprouting.",
+      "hi": "अंकुर के साथ जुड़े कवक संक्रमण।",
+      "te": "మొలకకు సంబంధించిన ఫంగల్ ఇన్ఫెక్షన్."
+    },
+    "treatment": {
+      "en": "Remove infected bulbs.",
+      "hi": "संक्रमित बल्बों को हटा दें।",
+      "te": "సోకిన బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Use proper storage and avoid sprouting conditions.",
+      "hi": "उचित भंडारण का उपयोग करें और अंकुरित स्थितियों से बचें।",
+      "te": "సరైన నిల్వను ఉపయోగించండి మరియు మొలక పరిస్థితులను నివారించండి."
+    },
+    "youtube_query": "Onion Blacksmutinfected Sprouted disease",
+    "images": [
+      "Blacksmutinfected Sprouted1.jpg",
+      "Blacksmutinfected Sprouted2.jpg",
+      "Blacksmutinfected Sprouted3.jpg"
+    ]
+  },
+  "cuts": {
+    "index": 35,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Cuts",
+      "hi": "कटौती",
+      "te": "కోతలు"
+    },
+    "cause": {
+      "en": "Mechanical injury during harvest or handling.",
+      "hi": "फसल या हैंडलिंग के दौरान यांत्रिक चोट।",
+      "te": "పంట లేదా నిర్వహణ సమయంలో యాంత్రిక గాయం."
+    },
+    "treatment": {
+      "en": "No direct treatment; handle carefully.",
+      "hi": "कोई प्रत्यक्ष उपचार नहीं; ध्यान से संभालें।",
+      "te": "ప్రత్యక్ష చికిత్స లేదు; జాగ్రత్తగా నిర్వహించండి."
+    },
+    "prevention": {
+      "en": "Avoid rough handling.",
+      "hi": "किसी न किसी हैंडलिंग से बचें।",
+      "te": "కఠినమైన నిర్వహణను నివారించండి."
+    },
+    "youtube_query": "Onion Cuts disease",
+    "images": [
+      "Cuts1.jpg",
+      "Cuts2.jpg",
+      "Cuts3.jpg"
+    ]
+  },
+  "discoloured-blacksmutinfected": {
+    "index": 36,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Discoloured Blacksmutinfected",
+      "hi": "ब्लॉस्टेड लोहार किया गया",
+      "te": "రంగు మారిన కమ్మరియు"
+    },
+    "cause": {
+      "en": "Fungal black smut infection causing discoloration.",
+      "hi": "फंगल ब्लैक स्मट संक्रमण मलिनकिरण का कारण बनता है।",
+      "te": "ఫంగల్ బ్లాక్ స్మట్ ఇన్ఫెక్షన్ రంగు పాలిపోతుంది."
+    },
+    "treatment": {
+      "en": "Discard infected bulbs.",
+      "hi": "संक्रमित बल्बों को त्यागें।",
+      "te": "సోకిన బల్బులను విస్మరించండి."
+    },
+    "prevention": {
+      "en": "Maintain dry storage.",
+      "hi": "शुष्क भंडारण बनाए रखें।",
+      "te": "పొడి నిల్వను నిర్వహించండి."
+    },
+    "youtube_query": "Onion Discoloured Blacksmutinfected disease",
+    "images": [
+      "Discoloured Blacksmutinfected1.jpg",
+      "Discoloured Blacksmutinfected2.jpg",
+      "Discoloured Blacksmutinfected3.jpg"
+    ]
+  },
+  "Healthy onion": {
+    "index": 37,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Healthy Onion",
+      "hi": "स्वस्थ प्याज",
+      "te": "ఆరోగ్యకరమైన ఉల్లిపాయ"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Onion Healthy Onion disease",
+    "images": [
+      "Healthy Onion1.jpg",
+      "Healthy Onion2.jpg",
+      "Healthy Onion3.jpg"
+    ]
+  },
+  "rooted": {
+    "index": 38,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Rooted",
+      "hi": "निहित",
+      "te": "పాతుకుపోయింది"
+    },
+    "cause": {
+      "en": "Bulbs sprouting roots due to moisture.",
+      "hi": "नमी के कारण जड़ों को अंकुरित करने वाले बल्ब।",
+      "te": "తేమ కారణంగా బల్బులు మూలాలు మొలకెత్తాయి."
+    },
+    "treatment": {
+      "en": "Not reversible; remove affected bulbs.",
+      "hi": "प्रतिवर्ती नहीं; प्रभावित बल्बों को हटा दें।",
+      "te": "రివర్సిబుల్ కాదు; ప్రభావిత బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Keep storage area dry.",
+      "hi": "भंडारण क्षेत्र को सूखा रखें।",
+      "te": "నిల్వ ప్రాంతాన్ని పొడిగా ఉంచండి."
+    },
+    "youtube_query": "Onion Rooted disease",
+    "images": [
+      "Rooted1.jpg",
+      "Rooted2.jpg",
+      "Rooted3.jpg"
+    ]
+  },
+  "rooting": {
+    "index": 39,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Rooting",
+      "hi": "सहानुभूति",
+      "te": "రూటింగ్"
+    },
+    "cause": {
+      "en": "High humidity storage leading to root growth.",
+      "hi": "उच्च आर्द्रता भंडारण जड़ विकास के लिए अग्रणी।",
+      "te": "అధిక తేమ నిల్వ మూల పెరుగుదలకు దారితీస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove rooted bulbs.",
+      "hi": "रूट किए गए बल्बों को हटा दें।",
+      "te": "పాతుకుపోయిన బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Store in ventilated conditions.",
+      "hi": "हवादार स्थितियों में स्टोर करें।",
+      "te": "వెంటిలేటెడ్ పరిస్థితులలో నిల్వ చేయండి."
+    },
+    "youtube_query": "Onion Rooting disease",
+    "images": [
+      "Rooting1.jpg",
+      "Rooting2.jpg",
+      "Rooting3.jpg"
+    ]
+  },
+  "rotten": {
+    "index": 40,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Rotten",
+      "hi": "सड़ा हुआ",
+      "te": "కుళ్ళిన"
+    },
+    "cause": {
+      "en": "Caused by fungal or bacterial rot pathogens.",
+      "hi": "फंगल या बैक्टीरियल रोट रोगजनकों के कारण।",
+      "te": "ఫంగల్ లేదా బాక్టీరియల్ రాట్ వ్యాధికారక చర్యల వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove and destroy rotten bulbs.",
+      "hi": "सड़े हुए बल्बों को हटा दें और नष्ट करें।",
+      "te": "కుళ్ళిన బల్బులను తీసివేసి నాశనం చేయండి."
+    },
+    "prevention": {
+      "en": "Ensure proper curing and storage.",
+      "hi": "उचित इलाज और भंडारण सुनिश्चित करें।",
+      "te": "సరైన క్యూరింగ్ మరియు నిల్వను నిర్ధారించుకోండి."
+    },
+    "youtube_query": "Onion Rotten disease",
+    "images": [
+      "Rotten1.jpg",
+      "Rotten2.jpg",
+      "Rotten3.jpg"
+    ]
+  },
+  "sprouted": {
+    "index": 41,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Sprouted",
+      "hi": "अंकुरित",
+      "te": "మొలకెత్తారు"
+    },
+    "cause": {
+      "en": "Premature sprouting due to high humidity or temperature.",
+      "hi": "उच्च आर्द्रता या तापमान के कारण समय से पहले अंकुर।",
+      "te": "అధిక తేమ లేదా ఉష్ణోగ్రత కారణంగా అకాల మొలకెత్తడం."
+    },
+    "treatment": {
+      "en": "No treatment; remove sprouted bulbs.",
+      "hi": "कोई इलाज़ नहीं; अंकुरित बल्बों को हटा दें।",
+      "te": "చికిత్స లేదు; మొలకెత్తిన బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Store at low temperature and low humidity.",
+      "hi": "कम तापमान और कम आर्द्रता पर स्टोर करें।",
+      "te": "తక్కువ ఉష్ణోగ్రత మరియు తక్కువ తేమతో నిల్వ చేయండి."
+    },
+    "youtube_query": "Onion Sprouted disease",
+    "images": [
+      "Sprouted1.jpg",
+      "Sprouted2.jpg",
+      "Sprouted3.jpg"
+    ]
+  },
+  "sprouted-cuts": {
+    "index": 42,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Sprouted Cuts",
+      "hi": "अंकुरित कटौती",
+      "te": "మొలకెత్తిన కోతలు"
+    },
+    "cause": {
+      "en": "Sprouting from damaged tissues.",
+      "hi": "क्षतिग्रस्त ऊतकों से अंकुरित।",
+      "te": "దెబ్బతిన్న కణజాలాల నుండి మొలకెత్తడం."
+    },
+    "treatment": {
+      "en": "Remove affected bulbs.",
+      "hi": "प्रभावित बल्बों को हटा दें।",
+      "te": "ప్రభావిత బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Avoid cuts during harvesting.",
+      "hi": "कटाई के दौरान कटौती से बचें।",
+      "te": "పంట కోతలు మానుకోండి."
+    },
+    "youtube_query": "Onion Sprouted Cuts disease",
+    "images": [
+      "Sprouted Cuts1.jpg",
+      "Sprouted Cuts2.jpg",
+      "Sprouted Cuts3.jpg"
+    ]
+  },
+  "sprouted-rooting": {
+    "index": 43,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Sprouted Rooting",
+      "hi": "अंकुरित",
+      "te": "మొలకెత్తిన రూటింగ్"
+    },
+    "cause": {
+      "en": "Bulbs sprouting due to excess moisture.",
+      "hi": "अतिरिक्त नमी के कारण उछलते हुए बल्ब।",
+      "te": "అదనపు తేమ కారణంగా బల్బులు మొలకెత్తుతాయి."
+    },
+    "treatment": {
+      "en": "Not reversible; remove bulbs.",
+      "hi": "प्रतिवर्ती नहीं; बल्बों को हटा दें।",
+      "te": "రివర్సిబుల్ కాదు; బల్బులను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Maintain dry conditions.",
+      "hi": "शुष्क स्थिति बनाए रखें।",
+      "te": "పొడి పరిస్థితులను నిర్వహించండి."
+    },
+    "youtube_query": "Onion Sprouted Rooting disease",
+    "images": [
+      "Sprouted Rooting1.jpg",
+      "Sprouted Rooting2.jpg",
+      "Sprouted Rooting3.jpg"
+    ]
+  },
+  "stem": {
+    "index": 44,
+    "crop": "Onion",
+    "display_name": {
+      "en": "Stem",
+      "hi": "तना",
+      "te": "కాండం"
+    },
+    "cause": {
+      "en": "Stem damage or disease in stored onions.",
+      "hi": "संग्रहीत प्याज में स्टेम क्षति या बीमारी।",
+      "te": "నిల్వ చేసిన ఉల్లిపాయలలో కాండం నష్టం లేదా వ్యాధి."
+    },
+    "treatment": {
+      "en": "Trim affected stems.",
+      "hi": "ट्रिम प्रभावित तने।",
+      "te": "ట్రిమ్ ప్రభావిత కాండం."
+    },
+    "prevention": {
+      "en": "Handle carefully and avoid injuries.",
+      "hi": "ध्यान से संभालें और चोटों से बचें।",
+      "te": "జాగ్రత్తగా నిర్వహించండి మరియు గాయాలను నివారించండి."
+    },
+    "youtube_query": "Onion Stem disease",
+    "images": [
+      "Stem1.jpg",
+      "Stem2.jpg",
+      "Stem3.jpg"
+    ]
+  },
+  "NALLA TAMARA": {
+    "index": 45,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Nalla Tamara",
+      "hi": "नल्ला तमारा",
+      "te": "నల్లా తమరా"
+    },
+    "cause": {
+      "en": "Local fungal disease (Alternaria spp. suspected).",
+      "hi": "स्थानीय कवक रोग (अल्टरनेरिया एसपीपी। संदिग्ध)।",
+      "te": "స్థానిక శిలీంధ్ర వ్యాధి (ఆల్టర్నేరియా spp. అనుమానిత)."
+    },
+    "treatment": {
+      "en": "Apply mancozeb fungicide.",
+      "hi": "Mancozeb कवकनाशी लागू करें।",
+      "te": "మాన్‌కోజెబ్ శిలీంద్ర సంహారిణిని వర్తించండి."
+    },
+    "prevention": {
+      "en": "Remove infected leaves and rotate crops.",
+      "hi": "संक्रमित पत्तियों को हटा दें और फसलों को घुमाएं।",
+      "te": "సోకిన ఆకులను తొలగించి పంటలను తిప్పండి."
+    },
+    "youtube_query": "Chilli Nalla Tamara disease",
+    "images": [
+      "Nalla Tamara1.jpg",
+      "Nalla Tamara2.jpg",
+      "Nalla Tamara3.jpg"
+    ]
+  },
+  "GEMINI": {
+    "index": 46,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Gemini",
+      "hi": "मिथुन",
+      "te": "జెమిని"
+    },
+    "cause": {
+      "en": "Caused by Gemini virus infection.",
+      "hi": "मिथुन वायरस संक्रमण के कारण।",
+      "te": "జెమిని వైరస్ సంక్రమణ వల్ల సంభవిస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove infected plants and control whitefly vectors.",
+      "hi": "संक्रमित पौधों को हटा दें और व्हाइटफ्लाई वैक्टर को नियंत्रित करें।",
+      "te": "సోకిన మొక్కలను తొలగించి వైట్‌ఫ్లై వెక్టర్లను నియంత్రించండి."
+    },
+    "prevention": {
+      "en": "Use virus-resistant varieties.",
+      "hi": "वायरस-प्रतिरोधी किस्मों का उपयोग करें।",
+      "te": "వైరస్-నిరోధక రకాలను ఉపయోగించండి."
+    },
+    "youtube_query": "Chilli Gemini disease",
+    "images": [
+      "Gemini1.jpg",
+      "Gemini2.jpg",
+      "Gemini3.jpg"
+    ]
+  },
+  "YERRA NELLI": {
+    "index": 47,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Yerra Nelli",
+      "hi": "येर्रा नेल्ली",
+      "te": "యెరా నెల్లి"
+    },
+    "cause": {
+      "en": "Local chilli fungal/bacterial infection.",
+      "hi": "स्थानीय मिर्च कवक/जीवाणु संक्रमण।",
+      "te": "స్థానిక కారం ఫంగల్/బాక్టీరియల్ ఇన్ఫెక్షన్."
+    },
+    "treatment": {
+      "en": "Use appropriate fungicide or bactericide.",
+      "hi": "उपयुक्त कवकनाशी या जीवाणुनाशक का उपयोग करें।",
+      "te": "తగిన శిలీంద్ర సంహారిణి లేదా బాక్టీరిసైడ్ వాడండి."
+    },
+    "prevention": {
+      "en": "Maintain field sanitation.",
+      "hi": "क्षेत्र स्वच्छता बनाए रखें।",
+      "te": "క్షేత్ర పారిశుద్ధ్యాన్ని నిర్వహించండి."
+    },
+    "youtube_query": "Chilli Yerra Nelli disease",
+    "images": [
+      "Yerra Nelli1.jpg",
+      "Yerra Nelli2.jpg",
+      "Yerra Nelli3.jpg"
+    ]
+  },
+  "KAYA KULLU": {
+    "index": 48,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Kaya Kullu",
+      "hi": "काया कुल्लू",
+      "te": "కయా కుల్లూ"
+    },
+    "cause": {
+      "en": "Regional chilli disease (fungal origin).",
+      "hi": "क्षेत्रीय मिर्च रोग (फंगल मूल)।",
+      "te": "ప్రాంతీయ మిరప వ్యాధి (ఫంగల్ మూలం)."
+    },
+    "treatment": {
+      "en": "Apply copper-based fungicides.",
+      "hi": "कॉपर-आधारित कवकनाशी लागू करें।",
+      "te": "రాగి ఆధారిత శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Avoid excess humidity.",
+      "hi": "अतिरिक्त आर्द्रता से बचें।",
+      "te": "అదనపు తేమను నివారించండి."
+    },
+    "youtube_query": "Chilli Kaya Kullu disease",
+    "images": [
+      "Kaya Kullu1.jpg",
+      "Kaya Kullu2.jpg",
+      "Kaya Kullu3.jpg"
+    ]
+  },
+  "GEMINI-onion": {
+    "index": 49,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Gemini Onion",
+      "hi": "मिथुन प्याज",
+      "te": "జెమిని ఉల్లిపాయ"
+    },
+    "cause": {
+      "en": "Mixed Gemini virus affecting chilli and onion fields.",
+      "hi": "मिर्च और प्याज के खेतों को प्रभावित करने वाले मिश्रित मिथुन वायरस।",
+      "te": "మిరపకాయ మరియు ఉల్లిపాయ క్షేత్రాలను ప్రభావితం చేసే మిశ్రమ జెమిని వైరస్."
+    },
+    "treatment": {
+      "en": "Control vectors and remove infected plants.",
+      "hi": "वैक्टर को नियंत्रित करें और संक्रमित पौधों को हटा दें।",
+      "te": "వెక్టర్లను నియంత్రించండి మరియు సోకిన మొక్కలను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties.",
+      "hi": "संयंत्र प्रतिरोधी किस्में।",
+      "te": "మొక్కల నిరోధక రకాలు."
+    },
+    "youtube_query": "Chilli Gemini Onion disease",
+    "images": [
+      "Gemini Onion1.jpg",
+      "Gemini Onion2.jpg",
+      "Gemini Onion3.jpg"
+    ]
+  },
+  "PACHI KAYA KULLU": {
+    "index": 50,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Pachi Kaya Kullu",
+      "hi": "पाची काया कुल्लू",
+      "te": "పచి కయా కుల్లూ"
+    },
+    "cause": {
+      "en": "Regional disease affecting immature chilli fruits.",
+      "hi": "अपरिपक्व मिर्च फलों को प्रभावित करने वाली क्षेत्रीय बीमारी।",
+      "te": "అపరిపక్వ మిరప పండ్లను ప్రభావితం చేసే ప్రాంతీయ వ్యాధి."
+    },
+    "treatment": {
+      "en": "Apply fungicides like carbendazim.",
+      "hi": "Carbendazim की तरह कवकनाशी लगाएं।",
+      "te": "కార్బెండాజిమ్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Harvest fruits on time.",
+      "hi": "समय पर फसल फलों।",
+      "te": "సమయానికి పండ్లు పంట."
+    },
+    "youtube_query": "Chilli Pachi Kaya Kullu disease",
+    "images": [
+      "Pachi Kaya Kullu1.jpg",
+      "Pachi Kaya Kullu2.jpg",
+      "Pachi Kaya Kullu3.jpg"
+    ]
+  },
+  "Curling": {
+    "index": 51,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Curling",
+      "hi": "कर्लिंग",
+      "te": "కర్లింగ్"
+    },
+    "cause": {
+      "en": "Viral disease spread by whiteflies.",
+      "hi": "वायरल रोग व्हाइटफ्लाइज़ द्वारा फैल गया।",
+      "te": "వైట్ఫ్లైస్ ద్వారా వైరల్ వ్యాధి వ్యాప్తి చెందుతుంది."
+    },
+    "treatment": {
+      "en": "Spray neem oil or imidacloprid to control whiteflies.",
+      "hi": "व्हाइटफ्लाइज़ को नियंत्रित करने के लिए नीम तेल या इमिडाक्लोप्रिड स्प्रे करें।",
+      "te": "వైట్‌ఫ్లైస్‌ను నియంత్రించడానికి నీమ్ ఆయిల్ లేదా ఇమిడాక్లోప్రిడ్‌ను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties.",
+      "hi": "संयंत्र प्रतिरोधी किस्में।",
+      "te": "మొక్కల నిరోధక రకాలు."
+    },
+    "youtube_query": "Chilli Curling disease",
+    "images": [
+      "Curling1.jpg",
+      "Curling2.jpg",
+      "Curling3.jpg"
+    ]
+  },
+  "Yellow": {
+    "index": 52,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Yellow",
+      "hi": "पीला",
+      "te": "పసుపు"
+    },
+    "cause": {
+      "en": "Caused by Chilli Yellow Leaf Curl Virus.",
+      "hi": "मिर्च पीले पत्ती कर्ल वायरस के कारण।",
+      "te": "మిరప పసుపు ఆకు కర్ల్ వైరస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove infected plants and control whiteflies.",
+      "hi": "संक्रमित पौधों को हटा दें और व्हाइटफ्लाइज़ को नियंत्रित करें।",
+      "te": "సోకిన మొక్కలను తొలగించి వైట్‌ఫ్లైస్‌ను నియంత్రించండి."
+    },
+    "prevention": {
+      "en": "Use resistant varieties and reflective mulches.",
+      "hi": "प्रतिरोधी किस्मों और चिंतनशील मल्च का उपयोग करें।",
+      "te": "నిరోధక రకాలు మరియు ప్రతిబింబ మల్చ్‌లను ఉపయోగించండి."
+    },
+    "youtube_query": "Chilli Yellow disease",
+    "images": [
+      "Yellow1.jpg",
+      "Yellow2.jpg",
+      "Yellow3.jpg"
+    ]
+  },
+  "Gemini-Virus": {
+    "index": 53,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Gemini Virus",
+      "hi": "मिथुन वायरस",
+      "te": "జెమిని వైరస్"
+    },
+    "cause": {
+      "en": "Caused by Begomovirus family transmitted by whiteflies.",
+      "hi": "Begomovirus परिवार के कारण व्हाइटफलीज़ द्वारा प्रेषित।",
+      "te": "వైట్‌ఫ్లైస్ ద్వారా ప్రసారం చేయబడిన బెగోమోవైరస్ కుటుంబం వల్ల."
+    },
+    "treatment": {
+      "en": "Remove diseased plants and spray insecticides.",
+      "hi": "रोगग्रस्त पौधों और स्प्रे कीटनाशकों को हटा दें।",
+      "te": "వ్యాధిగ్రస్తులైన మొక్కలను తొలగించి పురుగుమందులను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Plant resistant chilli hybrids.",
+      "hi": "संयंत्र प्रतिरोधी मिर्च संकर।",
+      "te": "మొక్కల నిరోధక మిరపకాయలు."
+    },
+    "youtube_query": "Chilli Gemini Virus disease",
+    "images": [
+      "Gemini Virus1.jpg",
+      "Gemini Virus2.jpg",
+      "Gemini Virus3.jpg"
+    ]
+  },
+  "Komma tegulu": {
+    "index": 54,
+    "crop": "Chilli",
+    "display_name": {
+      "en": "Komma Tegulu",
+      "hi": "कोमा तेगुलु",
+      "te": "కొమ్మా టెగులు"
+    },
+    "cause": {
+      "en": "Regional chilli disease (fungal origin).",
+      "hi": "क्षेत्रीय मिर्च रोग (फंगल मूल)।",
+      "te": "ప్రాంతీయ మిరప వ్యాధి (ఫంగల్ మూలం)."
+    },
+    "treatment": {
+      "en": "Spray fungicides like mancozeb.",
+      "hi": "Mancozeb की तरह स्प्रे कवकनाशी।",
+      "te": "మాన్‌కోజెబ్ వంటి శిలీంద్రనాశకాలను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Improve field sanitation.",
+      "hi": "क्षेत्र स्वच्छता में सुधार।",
+      "te": "క్షేత్ర పారిశుద్ధ్యాన్ని మెరుగుపరచండి."
+    },
+    "youtube_query": "Chilli Komma Tegulu disease",
+    "images": [
+      "Komma Tegulu1.jpg",
+      "Komma Tegulu2.jpg",
+      "Komma Tegulu3.jpg"
+    ]
+  },
+  "bacterial spot_cauliflower": {
+    "index": 55,
+    "crop": "Cauliflower",
+    "display_name": {
+      "en": "Bacterial Spot Cauliflower",
+      "hi": "बैक्टीरियल स्पॉट फूलगोभी",
+      "te": "బాక్టీరియల్ స్పాట్ కాలీఫ్లవర్"
+    },
+    "cause": {
+      "en": "Caused by Xanthomonas campestris pv. campestris.",
+      "hi": "Xanthomonas Campestris Pv के कारण। कैम्पेस्ट्रिस।",
+      "te": "క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల. క్యాంపెస్ట్రిస్."
+    },
+    "treatment": {
+      "en": "Use copper-based bactericides.",
+      "hi": "कॉपर-आधारित जीवाणुनाशक का उपयोग करें।",
+      "te": "రాగి ఆధారిత బాక్టీరిసైడ్లను ఉపయోగించండి."
+    },
+    "prevention": {
+      "en": "Avoid overhead irrigation.",
+      "hi": "ओवरहेड सिंचाई से बचें।",
+      "te": "ఓవర్ హెడ్ ఇరిగేషన్ మానుకోండి."
+    },
+    "youtube_query": "Cauliflower Bacterial Spot Cauliflower disease",
+    "images": [
+      "Bacterial Spot Cauliflower1.jpg",
+      "Bacterial Spot Cauliflower2.jpg",
+      "Bacterial Spot Cauliflower3.jpg"
+    ]
+  },
+  "black rot": {
+    "index": 56,
+    "crop": "Cauliflower",
+    "display_name": {
+      "en": "Black Rot",
+      "hi": "एक प्रकार की सड़ांध",
+      "te": "నల్ల తెగులు"
+    },
+    "cause": {
+      "en": "Caused by Xanthomonas campestris pv. campestris.",
+      "hi": "Xanthomonas Campestris Pv के कारण। कैम्पेस्ट्रिस।",
+      "te": "క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల. క్యాంపెస్ట్రిస్."
+    },
+    "treatment": {
+      "en": "Use hot water seed treatment and copper sprays.",
+      "hi": "गर्म पानी के बीज उपचार और तांबे के स्प्रे का उपयोग करें।",
+      "te": "వేడి నీటి విత్తన చికిత్స మరియు రాగి స్ప్రేలను ఉపయోగించండి."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties.",
+      "hi": "संयंत्र प्रतिरोधी किस्में।",
+      "te": "మొక్కల నిరోధక రకాలు."
+    },
+    "youtube_query": "Cauliflower Black Rot disease",
+    "images": [
+      "Black Rot1.jpg",
+      "Black Rot2.jpg",
+      "Black Rot3.jpg"
+    ]
+  },
+  "downy mildew": {
+    "index": 57,
+    "crop": "Cauliflower",
+    "display_name": {
+      "en": "Downy Mildew",
+      "hi": "डाउनी फफूंदी",
+      "te": "డౌనీ బూజు"
+    },
+    "cause": {
+      "en": "Caused by Peronospora parasitica fungus.",
+      "hi": "पेरोनोस्पोरा परासितिका कवक के कारण।",
+      "te": "పెరోనోస్పోరా పారాసిటికా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides like metalaxyl.",
+      "hi": "मेटलैक्सिल की तरह कवकनाशी लगाएं।",
+      "te": "మెటలాక్సిల్ వంటి శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Ensure good field drainage.",
+      "hi": "अच्छा क्षेत्र जल निकासी सुनिश्चित करें।",
+      "te": "మంచి ఫీల్డ్ డ్రైనేజీని నిర్ధారించుకోండి."
+    },
+    "youtube_query": "Cauliflower Downy Mildew disease",
+    "images": [
+      "Downy Mildew1.jpg",
+      "Downy Mildew2.jpg",
+      "Downy Mildew3.jpg"
+    ]
+  },
+  "healthy_cauliflower": {
+    "index": 58,
+    "crop": "Cauliflower",
+    "display_name": {
+      "en": "Healthy Cauliflower",
+      "hi": "स्वस्थ फूलगोभी",
+      "te": "ఆరోగ్యకరమైన కాలీఫ్లవర్"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Cauliflower Healthy Cauliflower disease",
+    "images": [
+      "Healthy Cauliflower1.jpg",
+      "Healthy Cauliflower2.jpg",
+      "Healthy Cauliflower3.jpg"
+    ]
+  },
+  "Cabbage-Alternaria_leaf_spot": {
+    "index": 59,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Alternaria Leaf Spot",
+      "hi": "गोभी अल्टरनेरिया लीफ स्पॉट",
+      "te": "ఆల్టర్"
+    },
+    "cause": {
+      "en": "Caused by Alternaria brassicae fungus.",
+      "hi": "अल्टरनेरिया ब्रैसिका फंगस के कारण।",
+      "te": "ఆల్టర్నేరియా బ్రాసికే ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Spray with mancozeb or chlorothalonil.",
+      "hi": "Mancozeb या क्लोरोथालोनिल के साथ स्प्रे करें।",
+      "te": "మాన్‌కోజెబ్ లేదా క్లోరోథలోనిల్‌తో పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Rotate crops and remove debris.",
+      "hi": "फसलों को घुमाएं और मलबे को हटा दें।",
+      "te": "పంటలను తిప్పండి మరియు శిధిలాలను తొలగించండి."
+    },
+    "youtube_query": "Cabbage Cabbage Alternaria Leaf Spot disease",
+    "images": [
+      "Cabbage Alternaria Leaf Spot1.jpg",
+      "Cabbage Alternaria Leaf Spot2.jpg",
+      "Cabbage Alternaria Leaf Spot3.jpg"
+    ]
+  },
+  "Cabbage-Bacterial_leaf_spot": {
+    "index": 60,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Bacterial Leaf Spot",
+      "hi": "गोभी जीवाणु पत्ती स्थान",
+      "te": "క్యాబేజీ బాక్టీరియల్ లీఫ్ స్పాట్"
+    },
+    "cause": {
+      "en": "Caused by Xanthomonas campestris pv. campestris.",
+      "hi": "Xanthomonas Campestris Pv के कारण। कैम्पेस्ट्रिस।",
+      "te": "క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల. క్యాంపెస్ట్రిస్."
+    },
+    "treatment": {
+      "en": "Apply copper-based sprays.",
+      "hi": "कॉपर-आधारित स्प्रे लागू करें।",
+      "te": "రాగి ఆధారిత స్ప్రేలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Avoid working when plants are wet.",
+      "hi": "जब पौधे गीले होते हैं तो काम करने से बचें।",
+      "te": "మొక్కలు తడిగా ఉన్నప్పుడు పని చేయకుండా ఉండండి."
+    },
+    "youtube_query": "Cabbage Cabbage Bacterial Leaf Spot disease",
+    "images": [
+      "Cabbage Bacterial Leaf Spot1.jpg",
+      "Cabbage Bacterial Leaf Spot2.jpg",
+      "Cabbage Bacterial Leaf Spot3.jpg"
+    ]
+  },
+  "Cabbage-Black_rot": {
+    "index": 61,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Black Rot",
+      "hi": "गोभी काली सड़ांध",
+      "te": "క్యాబేజీ బ్లాక్ రాట్"
+    },
+    "cause": {
+      "en": "Caused by Xanthomonas campestris pv. campestris bacterium.",
+      "hi": "Xanthomonas Campestris Pv के कारण। कैम्पेस्ट्रिस जीवाणु।",
+      "te": "క్శాంతోమోనాస్ క్యాంపెస్ట్రిస్ పివి వల్ల. క్యాంపెస్ట్రిస్ బాక్టీరియం."
+    },
+    "treatment": {
+      "en": "Hot water seed treatment and copper sprays.",
+      "hi": "गर्म पानी के बीज उपचार और तांबे के स्प्रे।",
+      "te": "వేడి నీటి విత్తన చికిత్స మరియు రాగి స్ప్రేలు."
+    },
+    "prevention": {
+      "en": "Plant resistant varieties.",
+      "hi": "संयंत्र प्रतिरोधी किस्में।",
+      "te": "మొక్కల నిరోధక రకాలు."
+    },
+    "youtube_query": "Cabbage Cabbage Black Rot disease",
+    "images": [
+      "Cabbage Black Rot1.jpg",
+      "Cabbage Black Rot2.jpg",
+      "Cabbage Black Rot3.jpg"
+    ]
+  },
+  "Cabbage-Downy_mildew": {
+    "index": 62,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Downy Mildew",
+      "hi": "गोभी की डाउनी फफूंदी",
+      "te": "క్యాబేజీ డౌనీ బూజు"
+    },
+    "cause": {
+      "en": "Caused by Hyaloperonospora parasitica fungus.",
+      "hi": "Hyaloperonospora parasitica कवक के कारण।",
+      "te": "హైలోపెరోనోస్పోరా పారాసిటికా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Spray fungicides like metalaxyl.",
+      "hi": "मेटलैक्सिल की तरह स्प्रे कवकनाशी।",
+      "te": "మెటలాక్సిల్ వంటి శిలీంద్రనాశకాలను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Improve air circulation.",
+      "hi": "वायु परिसंचरण में सुधार करें।",
+      "te": "గాలి ప్రసరణను మెరుగుపరచండి."
+    },
+    "youtube_query": "Cabbage Cabbage Downy Mildew disease",
+    "images": [
+      "Cabbage Downy Mildew1.jpg",
+      "Cabbage Downy Mildew2.jpg",
+      "Cabbage Downy Mildew3.jpg"
+    ]
+  },
+  "Cabbage-Fusarium_wilt": {
+    "index": 63,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Fusarium Wilt",
+      "hi": "गोभी",
+      "te": "క్యాబేజీ ఫ్యూసేరియం విల్ట్"
+    },
+    "cause": {
+      "en": "Caused by Fusarium oxysporum fungus.",
+      "hi": "फुसैरियम ऑक्सीस्पोरम फंगस के कारण।",
+      "te": "ఫ్యూసేరియం ఆక్సిస్పోరం ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Remove infected plants and use soil fumigation.",
+      "hi": "संक्रमित पौधों को हटा दें और मिट्टी की धूमन का उपयोग करें।",
+      "te": "సోకిన మొక్కలను తీసివేసి నేల ధూమపానం వాడండి."
+    },
+    "prevention": {
+      "en": "Plant resistant cultivars.",
+      "hi": "संयंत्र प्रतिरोधी खेती।",
+      "te": "మొక్కల నిరోధక సాగు."
+    },
+    "youtube_query": "Cabbage Cabbage Fusarium Wilt disease",
+    "images": [
+      "Cabbage Fusarium Wilt1.jpg",
+      "Cabbage Fusarium Wilt2.jpg",
+      "Cabbage Fusarium Wilt3.jpg"
+    ]
+  },
+  "Cabbage-Healthy": {
+    "index": 64,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Healthy",
+      "hi": "गोभी स्वस्थ",
+      "te": "క్యాబేజీ ఆరోగ్యకరమైన"
+    },
+    "cause": {
+      "en": "No disease present.",
+      "hi": "कोई बीमारी मौजूद नहीं है।",
+      "te": "వ్యాధి లేదు."
+    },
+    "treatment": {
+      "en": "No treatment needed.",
+      "hi": "किसी उपचार की जरूरत नहीं है।",
+      "te": "చికిత్స అవసరం లేదు."
+    },
+    "prevention": {
+      "en": "Maintain good cultivation practices.",
+      "hi": "अच्छी खेती की प्रथाओं को बनाए रखें।",
+      "te": "మంచి సాగు పద్ధతులను నిర్వహించండి."
+    },
+    "youtube_query": "Cabbage Cabbage Healthy disease",
+    "images": [
+      "Cabbage Healthy1.jpg",
+      "Cabbage Healthy2.jpg",
+      "Cabbage Healthy3.jpg"
+    ]
+  },
+  "Cabbage-Powdery_mildew": {
+    "index": 65,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Powdery Mildew",
+      "hi": "गोभी का ढाले फफूंदी",
+      "te": "క్యాబేజీ పౌడర్ బూజు"
+    },
+    "cause": {
+      "en": "Caused by Erysiphe cruciferarum fungus.",
+      "hi": "एरीसिप क्रूसीफेरम फंगस के कारण।",
+      "te": "ఎరిసిఫే క్రూసిఫెరం ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply sulfur-based fungicides.",
+      "hi": "सल्फर-आधारित कवकनाशी लागू करें।",
+      "te": "సల్ఫర్ ఆధారిత శిలీంద్రనాశకాలను వర్తించండి."
+    },
+    "prevention": {
+      "en": "Avoid overcrowding of plants.",
+      "hi": "पौधों की भीड़ से बचें।",
+      "te": "మొక్కల రద్దీని నివారించండి."
+    },
+    "youtube_query": "Cabbage Cabbage Powdery Mildew disease",
+    "images": [
+      "Cabbage Powdery Mildew1.jpg",
+      "Cabbage Powdery Mildew2.jpg",
+      "Cabbage Powdery Mildew3.jpg"
+    ]
+  },
+  "Cabbage-Ringspot": {
+    "index": 66,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Ringspot",
+      "hi": "गोभी का रिंगपॉट",
+      "te": "క్యాబేజీ రింగ్‌స్పాట్"
+    },
+    "cause": {
+      "en": "Caused by Mycosphaerella brassicicola fungus.",
+      "hi": "माइकोस्फेरेला ब्रैसिकोला कवक के कारण।",
+      "te": "మైకోస్ఫేరెల్లా బ్రాసిసికోలా ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Spray fungicides like chlorothalonil.",
+      "hi": "क्लोरोथालोनिल की तरह स्प्रे कवकनाशी।",
+      "te": "క్లోరోథలోనిల్ వంటి శిలీంద్రనాశకాలను పిచికారీ చేయండి."
+    },
+    "prevention": {
+      "en": "Rotate crops and destroy residues.",
+      "hi": "फसलों को घुमाएं और अवशेषों को नष्ट कर दें।",
+      "te": "పంటలను తిప్పండి మరియు అవశేషాలను నాశనం చేయండి."
+    },
+    "youtube_query": "Cabbage Cabbage Ringspot disease",
+    "images": [
+      "Cabbage Ringspot1.jpg",
+      "Cabbage Ringspot2.jpg",
+      "Cabbage Ringspot3.jpg"
+    ]
+  },
+  "Cabbage-Sclerotinia_rot": {
+    "index": 67,
+    "crop": "Cabbage",
+    "display_name": {
+      "en": "Cabbage Sclerotinia Rot",
+      "hi": "गोभी",
+      "te": "క్యాబేజీ స్క్లెరోటినియా తెగులు"
+    },
+    "cause": {
+      "en": "Caused by Sclerotinia sclerotiorum fungus.",
+      "hi": "स्क्लेरोटिनिया स्क्लेरोटियोरम फंगस के कारण।",
+      "te": "స్క్లెరోటినియా స్క్లెరోటియోరం ఫంగస్ వల్ల వస్తుంది."
+    },
+    "treatment": {
+      "en": "Apply fungicides and remove infected plants.",
+      "hi": "कवकनाशी लगाएं और संक्रमित पौधों को हटा दें।",
+      "te": "శిలీంద్రనాశకాలను వర్తించండి మరియు సోకిన మొక్కలను తొలగించండి."
+    },
+    "prevention": {
+      "en": "Avoid excess soil moisture.",
+      "hi": "अतिरिक्त मिट्टी की नमी से बचें।",
+      "te": "అదనపు నేల తేమను నివారించండి."
+    },
+    "youtube_query": "Cabbage Cabbage Sclerotinia Rot disease",
+    "images": [
+      "Cabbage Sclerotinia Rot1.jpg",
+      "Cabbage Sclerotinia Rot2.jpg",
+      "Cabbage Sclerotinia Rot3.jpg"
+    ]
+  }
+}
